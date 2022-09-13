@@ -1,1 +1,3 @@
 # lingdata
+### daliya gimadieva
+**star**
