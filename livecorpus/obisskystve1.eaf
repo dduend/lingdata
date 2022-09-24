@@ -438,42 +438,42 @@
         PARTICIPANT="@pdv1930f" TIER_ID="transl@pdv1930f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>nowadays floor's /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nowadays floor's </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>on the roman tradition / because the Colosseum is still of course / it / from time to time of course underwent some changes / some / some / very few / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>on the roman tradition, because the Colosseum is still, of course, it from time to time of course underwent some changes, some, some, very few </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>including the floor / overlapped / several times / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>including the floor was overlapped several times </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>and this floor / it was / you know what? / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and this floor, it was, you know what? </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>it was laid out / from all / um / minerals / precious / and semi-precious stomes that were mined out of the ground / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it was laid out from all... um... minerals, precious and semi-precious stomes that were mined out of the ground </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>and / everything / that is mined out of the ground /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and everything that is mined out of the ground </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>was polished / connected / by inlay / and in the form of an abstract cartpet of ther world / was laid out / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>was polished, connected by inlay and in the form of an abstract cartpet of ther world was laid out </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>all precious / semi-precious stomes / salts / #нрзб# / coal / all all all all all / /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>all precious, semi-precious stomes, salts, #нрзб#, coal, all all all all all. </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1383,7 +1383,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
                 TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts104">
-                <ANNOTATION_VALUE>∙∙∙∙ В том числе пол ∙∙ перекрывался ∙∙∙ несколько раз.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• В том числе пол •• перекрывался ••• несколько раз.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1395,7 +1395,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
                 TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts126">
-                <ANNOTATION_VALUE>∙∙∙∙ он был,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• он был,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1407,13 +1407,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136"
                 TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE>•••• Он был выложен ∙∙∙• из всех а... ∙∙∙∙ минералов,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• Он был выложен •••• из всех а... •••• минералов,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137"
                 TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts164">
-                <ANNOTATION_VALUE>∙∙∙∙ драгоценных ∙∙ и полудрагоценных камней,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• драгоценных •• и полудрагоценных камней,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1425,7 +1425,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139"
                 TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts188">
-                <ANNOTATION_VALUE>∙∙∙∙ Вот всё, </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• Вот всё, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1437,25 +1437,25 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
                 TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts210">
-                <ANNOTATION_VALUE>∙∙∙∙ было отшлифовано,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• было отшлифовано,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
                 TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts232">
-                <ANNOTATION_VALUE>∙∙∙∙ соединено ∙∙∙∙ инкустацией ∙∙∙∙ и в виде абстрактного ∙∙∙ ковра мира ∙∙∙∙ выложено.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• соединено •••• инкустацией •••• и в виде абстрактного ••• ковра мира ••• выложено.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a200"
                 TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts244">
-                <ANNOTATION_VALUE>∙∙∙∙ Все драгоценные, </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•••• Все драгоценные, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201"
                 TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts253">
-                <ANNOTATION_VALUE>∙∙ полудрагоценные камни,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>•• полудрагоценные камни,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
